@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumya Rayast
 - 👨‍💻 Web Devloper | Programmer | Graphic Designer | 
 - 👀 I’m interested in contribute in developing field.
-- 🌱 I’m currently learning FrameWork Of web dev Reactjs.
+- 🌱 I’m currently learning FrameWork (React.js).
 - 💞️ I’m looking to collaborate on organization , in which i can contribute by works with them , and also help me to gain an expirence with team's.
 - 📫  My mail account : rayastsoumya@gmail.com 
