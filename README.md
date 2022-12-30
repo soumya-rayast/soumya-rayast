@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Soumya Rayast
 - 👨‍💻 Web Devloper | Programmer | Graphic Designer | 
 - 👀 I’m interested in contribute in developing field.
+- 🌱 Skills - HTML,CSS,Bootstrap,Js,Jquerry,Nodejs,Expressjs,Monogdb,Moongoose
 - 🌱 I’m currently learning FrameWork (React.js).
-- 💞️ I’m looking to collaborate on organization , in which i can contribute by works with them , and also help me to gain an expirence with team's.
+- 💞️ I’m looking to collaborate on organization , in which I can contribute by works with them , and also help me to gain an expirence with team's.
 - 📫  My mail account : rayastsoumya@gmail.com 
