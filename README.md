@@ -11,7 +11,7 @@ Passionate frontend developer with a flair for crafting visually appealing and r
 * 🧠  I'm learning JavaScript & its Library
 * 🤝  I'm open to collaborating on intresting projects
 * ⚡  Ask me about CSS and JavaScript
-* 🖥️  Visit My Portfolio : https://soumya-rayast.github.io/MyPortFolio/ 
+* 🖥️  Visit My Portfolio : https://elegant-starship-86f761.netlify.app/
 
 ### Skills
 
