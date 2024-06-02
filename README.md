@@ -15,7 +15,7 @@
 
 - 📫 Reach me **rayastsoumya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tC3vQ-N1rVMhYLkfki2X8OXYITss42Tq/view](https://drive.google.com/file/d/1tC3vQ-N1rVMhYLkfki2X8OXYITss42Tq/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tC3vQ-N1rVMhYLkfki2X8OXYITss42Tq/view](https://drive.google.com/file/d/14semWof4D6FVH-1vscyrWX5DRlgiW67x/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
