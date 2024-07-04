@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MERN and Backend Frameworks**
 
-- 👨‍💻 Look T MY PortFolio [PortFolio](https://soumyarayast-portfolio.vercel.app/)
+- 👨‍💻 Look at MY Portfolio [PortFolio](https://soumyarayast-portfolio.vercel.app/)
 
 - 💬 Ask me about Web Technology **JavaScript,MERN**
 
 - 📫 Reach me **rayastsoumya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tC3vQ-N1rVMhYLkfki2X8OXYITss42Tq/view](https://drive.google.com/file/d/14semWof4D6FVH-1vscyrWX5DRlgiW67x/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14semWof4D6FVH-1vscyrWX5DRlgiW67x/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
