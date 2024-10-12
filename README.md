@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumya-rayast" alt="soumya-rayast" /></a> </p>
 
-- 🔭 I’m currently working on my personal project. ShutterShare
+- 🔭 I’m currently looking for organization for colabrate.
 
 - 🌱 I’m currently learning **MERN and Backend Frameworks**
 
