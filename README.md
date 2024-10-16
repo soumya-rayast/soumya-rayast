@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for organization for colabrate.
 
-- 🌱 I’m currently learning **MERN and Backend Frameworks**
+- 🌱 I’m currently learning **NextJs and ThreeJs**
 
 - 👨‍💻 Look at MY Portfolio [PortFolio](https://soumyarayast-portfolio.vercel.app/)
 
