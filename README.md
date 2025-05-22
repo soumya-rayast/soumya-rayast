@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs and ThreeJs**
 
-- 👨‍💻 Look at MY Portfolio [PortFolio](https://soumyarayast-portfolio.vercel.app/)
+- 👨‍💻 Look at MY Portfolio [PortFolio](https://soumya-rayast.vercel.app/)
 
 - 💬 Ask me about Web Technology **JavaScript,MERN**
 
